@@ -1,1 +1,1 @@
-"use client";
+"use strict";
