@@ -1,4 +1,4 @@
-"use client";
+"use strict";
 
 const { app, BrowserWindow } = require("electron");
 const { join } = require("path");
